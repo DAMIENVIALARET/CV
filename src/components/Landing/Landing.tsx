@@ -12,7 +12,7 @@ const Landing: React.FC = () => {
             alt="Damien Adams Vialaret"
             className="w-64 h-64 object-cover rounded-full mx-auto"
           />
-          <h1 className="mt-2 text-3xl font-light">Damien </h1>
+          <h1 className="mt-2 text-3xl font-light">Damien Adams Vialaret</h1>
           <p className="text-gray-500 text-lg font-light">
             Finance Student
             <br />
