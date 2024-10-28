@@ -8,11 +8,11 @@ const Landing: React.FC = () => {
         {/* Profile Section */}
         <div className="w-full md:w-1/3 lg:w-1/4 flex-shrink-0 text-center profile-section mb-10 sm:mb-0 mr-4">
           <img
-            src="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/headshot.webp"
+            src="/DV.jpg"
             alt="Sam Harrison"
             className="w-64 h-64 object-cover rounded-full mx-auto"
           />
-          <h1 className="mt-2 text-3xl font-light">Sam Harrison</h1>
+          <h1 className="mt-2 text-3xl font-light">Damien </h1>
           <p className="text-gray-500 text-lg font-light">
             Computing Technology & Chemical Engineering Student
             <br />
