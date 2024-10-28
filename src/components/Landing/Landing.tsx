@@ -8,13 +8,13 @@ const Landing: React.FC = () => {
         {/* Profile Section */}
         <div className="w-full md:w-1/3 lg:w-1/4 flex-shrink-0 text-center profile-section mb-10 sm:mb-0 mr-4">
           <img
-            src="/DV.jpg"
-            alt="Sam Harrison"
+            src="/DV.png"
+            alt="Damien Adams Vialaret"
             className="w-64 h-64 object-cover rounded-full mx-auto"
           />
           <h1 className="mt-2 text-3xl font-light">Damien </h1>
           <p className="text-gray-500 text-lg font-light">
-            Computing Technology & Chemical Engineering Student
+            Finance Student
             <br />
             University of Ottawa
           </p>
@@ -23,7 +23,7 @@ const Landing: React.FC = () => {
               <i className="fab fa-github hover:scale-110"></i>
             </a>
             <a
-              href="https://www.linkedin.com/in/samuel-harrison-1a2b3c/"
+              href="https://www.linkedin.com/in/damienadamsvialaret/"
               className="text-2xl mx-2 text-gray-600 hover:text-gray-600"
             >
               <i className="fab fa-linkedin hover:scale-110"></i>
@@ -37,7 +37,7 @@ const Landing: React.FC = () => {
               <i className="ai ai-cv hover:scale-110"></i>
             </a>
             <a
-              href="mailto:sharr125@uottawa.ca"
+              href="mailto:vialaretdamien@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
               className="text-2xl mx-2 text-gray-600 hover:text-gray-600"
@@ -51,13 +51,9 @@ const Landing: React.FC = () => {
         <div className="w-full md:w-2/3 lg:w-3/4 flex-grow">
           <h2 className="text-xl md:text-2xl font-light">Biography</h2>
           <p className="text-sm sm:text-base md:text-lg mt-2 font-light ">
-            5th year double major in Computing Technology and Chemical
-            Engineering at the University of Ottawa with an interest in applied
-            machine learning, performance-critical application development, and
-            Rust. I've acquired industry experience in developing
-            data-intensive applications, creating and deploying ML/DL models,
-            and building robust data pipelines for real-time processing and
-            streaming.
+            I am 4th year student graduating December 2024 with a Bachelor of Commerce in Fiance.
+            I've acquired industry experience trough a rotation of internships, including placements
+            commercial banking and capital markets LOBs. I am driven by curiosity and eagerness to innovate.
           </p>
           <div className="flex flex-wrap mt-8">
             <div className="w-full md:w-1/2 pr-5 mb-4">
