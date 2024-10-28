@@ -16,24 +16,24 @@ const Experience: React.FC = () => {
 
           {/* Timeline Content */}
           <div className="w-full lg:w-3/4 relative">
-            {/* Neon Experience (First) */}
+            {/* BMO Capital Markets Experience (First) */}
             <ExperienceCard
               first
-              title="Software Engineer, Contractor"
-              company="Neon"
-              location="Ottawa, ON"
-              dateRange="Present"
+              title="Analyst, Collateral Management Group"
+              company="BMO Capital Markets"
+              location="Toronto, ON"
+              dateRange="May 2024 - Aug 2024"
               description={[]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/neonlogo.png"
-              websiteUrl="http://neon.tech/home"
+              websiteUrl="https://capitalmarkets.bmo.com/en/"
             />
 
-            {/* Skyworks Experience */}
+            {/* Scotiabank Experience */}
             <ExperienceCard
-              title="Machine Learning Engineer II, III-V Modeling Group"
-              company="Skyworks Solutions Inc."
+              title="Commercial Banking Analyst"
+              company="Scotiabank"
               location="Ottawa, ON"
-              dateRange="July 2024 - Present"
+              dateRange="Jan 2024 - Apr 2024"
               description={[
                 "Created CLI to interface with on-prem HPC cluster and file system for training, boot standardized project templates and environments with Apptainer, and manage and monitor experiments",
                 "Developed PyTorch-to-Verilog-A transpiler to deploy DL models into Cadence and ADS simulators",
@@ -41,7 +41,7 @@ const Experience: React.FC = () => {
                 "Built an internal RF switch design math package, deployed behind a RESTful API and Next dashboard,  and as a standalone pip package; automated test, build, and deployment workflows on Azure DevOps"
               ]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/skyworkslogo.png"
-              websiteUrl="https://www.skyworksinc.com/"
+              websiteUrl="https://www.scotiabank.com/ca/en/commercial-banking.html"
             />
 
             {/* GBatteries Experience */}

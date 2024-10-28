@@ -19,7 +19,7 @@ const Landing: React.FC = () => {
             University of Ottawa
           </p>
           <div className="mt-4">
-            <a href="https://github.com/sam-harri" className="text-2xl mx-2 text-gray-600 hover:text-gray-600">
+            <a href="https://github.com/DAMIENVIALARET" className="text-2xl mx-2 text-gray-600 hover:text-gray-600">
               <i className="fab fa-github hover:scale-110"></i>
             </a>
             <a
@@ -51,17 +51,17 @@ const Landing: React.FC = () => {
         <div className="w-full md:w-2/3 lg:w-3/4 flex-grow">
           <h2 className="text-xl md:text-2xl font-light">Biography</h2>
           <p className="text-sm sm:text-base md:text-lg mt-2 font-light ">
-            I am 4th year student graduating December 2024 with a Bachelor of Commerce in Fiance.
+            I am 4th year student graduating this December 2024 with a Bachelor of Commerce in Finance.
             I've acquired industry experience trough a rotation of internships, including placements
-            commercial banking and capital markets LOBs. I am driven by curiosity and eagerness to innovate.
+            commercial banking and capital markets. I am driven by curiosity and eagerness to innovate.
           </p>
           <div className="flex flex-wrap mt-8">
             <div className="w-full md:w-1/2 pr-5 mb-4">
               <h3 className="text-lg md:text-xl font-light">Education</h3>
               <ul className="list-none mt-2 space-y-2">
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> BSc. in Computing
-                  Technology, 2020 - 2025
+                  <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> Bcom. in Finance
+                  2020 - 2024
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">University of Ottawa</p>
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">GPA: 9.8 / 10.0</p>
                 </li>
