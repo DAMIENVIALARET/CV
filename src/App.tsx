@@ -4,7 +4,7 @@ import Experience from './components/Experience/Experience'
 import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
 import Landing from './components/Landing/Landing'
-import ProjectList from './components/Projects/ProjectList'
+import ProjectList from './components/Startups/ProjectList'
 import Skills from './components/Skills/Skills'
 
 function App() {
