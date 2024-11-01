@@ -52,8 +52,8 @@ const Landing: React.FC = () => {
           <h2 className="text-xl md:text-2xl font-light">Biography</h2>
           <p className="text-sm sm:text-base md:text-lg mt-2 font-light ">
             I am 4th year student graduating this December 2024 with a Bachelor of Commerce in Finance.
-            I've acquired industry experience trough a rotation of internships, including placements
-            commercial banking and capital markets. I am driven by curiosity and eagerness to innovate.
+            I've acquired industry experience trough a rotation of internships, including placements in commercial banking and capital markets.
+            I am driven by curiosity and eagerness to innovate, and I love expanding my netwrok and working in team settings.
           </p>
           <div className="flex flex-wrap mt-8">
             <div className="w-full md:w-1/2 pr-5 mb-4">
