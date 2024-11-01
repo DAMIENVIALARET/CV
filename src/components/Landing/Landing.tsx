@@ -63,13 +63,12 @@ const Landing: React.FC = () => {
                   <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> Bcom. in Finance
                   2020 - 2024
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">University of Ottawa</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">GPA: 9.8 / 10.0</p>
+                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">GPA: ...</p>
                 </li>
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> BASc. in Chemical
-                  Engineering, 2020 - 2025
+                  <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> ...
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">University of Ottawa</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">GPA: 9.1 / 10.0</p>
+                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">GPA: ...</p>
                 </li>
               </ul>
             </div>
@@ -77,13 +76,13 @@ const Landing: React.FC = () => {
               <h3 className="text-lg md:text-xl font-light">Accomplishments</h3>
               <ul className="list-none mt-2 space-y-2">
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Dean's Honour Roll (Every Year)
+                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> ...
                 </li>
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Dean's Merit Scholarship (Every Semester)
+                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> ...
                 </li>
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Winner of Engineering Capstone Competition
+                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Exception of Tuition Fees
                 </li>
                 <li className="text-xs md:text-sm">
                   <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> French Studies Bursary
