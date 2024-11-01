@@ -23,7 +23,12 @@ const Experience: React.FC = () => {
               company="BMO Capital Markets"
               location="Toronto, ON"
               dateRange="May 2024 - Aug 2024"
-              description={[]}
+              description={[
+                "Performed daily functions to manage margining on unilateral and bilateral trades with call volumes reaching ~$4B",
+                "Communicated with publicly traded companies and prepared risk reports for the bank’s upper management",
+                "Pitched a Proactive Portfolio Reconciliation System (functioning VBA/full wireframe/walkthrough) to Managing Director, Director, and Manager, focusing on report automation, data efficiency, and operational risk reduction",
+                "Expanded my network by engaging with key banking partners, including Capital Markets MDs and VPs"
+              ]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/neonlogo.png"
               websiteUrl="https://capitalmarkets.bmo.com/en/"
             />
@@ -35,32 +40,64 @@ const Experience: React.FC = () => {
               location="Ottawa, ON"
               dateRange="Jan 2024 - Apr 2024"
               description={[
-                "Created CLI to interface with on-prem HPC cluster and file system for training, boot standardized project templates and environments with Apptainer, and manage and monitor experiments",
-                "Developed PyTorch-to-Verilog-A transpiler to deploy DL models into Cadence and ADS simulators",
-                "Designed physics-informed neural network of GaAs pHEMT devices, enabling more precise bias point selection for intermodulation distortion suppression",
-                "Built an internal RF switch design math package, deployed behind a RESTful API and Next dashboard,  and as a standalone pip package; automated test, build, and deployment workflows on Azure DevOps"
+                "Managed a portfolio of companies with annual revenues of up to $1.1B, servicing 20+ credit requests, analyzing 50+ financial statements, conducting 10+ annual reviews, and successfully completing 2 full client onboardings",
+                "Lead the Benchmark Rate Reform (CORRA transition) on a book of ~$200MM+ of loans and swaps",
+                "Automated processes using Excel VBA and complex data mapping",
+                "Received recognition from Directors & Senior VP for “passion and work ethic"
               ]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/skyworkslogo.png"
               websiteUrl="https://www.scotiabank.com/ca/en/commercial-banking.html"
             />
 
-            {/* GBatteries Experience */}
+            {/* TA Experience */}
             <ExperienceCard
-              title="Algorithm Developer Intern, R&D Division"
-              company="GBatteries"
+              title="Teaching Assistant - Financial Management"
+              company="Telfer School of Management"
               location="Ottawa, ON"
-              dateRange="August 2023 – January 2024"
+              dateRange="Sept 2023 – Dec 2023"
               description={[
-                "Developed and deployed various machine learning and deep learning models to tackle state estimation of Li-Ion batteries during drive cycles",
-                "Deployed models with FastAPI and Redis for data buffering using a CI pipeline with automated unit testing and deployment workflows",
-                "Created Electrochemical Impedance Spectroscopy dashboard in React and accompanying REST API to standardize data acquisition for all platforms and allow researchers to access, plot, compare and share battery cycling results across teams",
-                "Integrated API calls into existing EIS platforms for transmission of sweep conditions and impedance results into MongoDB"
+                "Provided 5 final exam review sessions, covering complex finance concepts and practice problems (200 students each)",
+                "Held 12 office hours, helping students understand fundamental finance concepts (8-15 students each)",
+                "Tutored students one-on-one to solve/understand technical questions",
+                "Gave back to younger students by teaching/sharing knowledge acquired throughout school and work experiences"
               ]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/gbatterieslogo.png"
-              websiteUrl="https://www.gbatteries.com/"
+              websiteUrl="https://telfer.uottawa.ca/en/"
             />
 
-            {/* PSPC Experience (Last) */}
+              {/* BMO P&BB Experience */}
+            <ExperienceCard
+              title="Teaching Assistant - Financial Management"
+              company="Telfer School of Management"
+              location="Ottawa, ON"
+              dateRange="Sept 2023 – Dec 2023"
+              description={[
+                "Provided 5 final exam review sessions, covering complex finance concepts and practice problems (200 students each)",
+                "Held 12 office hours, helping students understand fundamental finance concepts (8-15 students each)",
+                "Tutored students one-on-one to solve/understand technical questions",
+                "Gave back to younger students by teaching/sharing knowledge acquired throughout school and work experiences"
+              ]}
+              logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/gbatterieslogo.png"
+              websiteUrl="https://www.bmo.com/en-ca/main/personal/"
+            />
+
+            {/* Department of Justive Canada Experience */}
+            <ExperienceCard
+              title="Teaching Assistant - Financial Management"
+              company="Telfer School of Management"
+              location="Ottawa, ON"
+              dateRange="Sept 2023 – Dec 2023"
+              description={[
+                "Provided 5 final exam review sessions, covering complex finance concepts and practice problems (200 students each)",
+                "Held 12 office hours, helping students understand fundamental finance concepts (8-15 students each)",
+                "Tutored students one-on-one to solve/understand technical questions",
+                "Gave back to younger students by teaching/sharing knowledge acquired throughout school and work experiences"
+              ]}
+              logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/gbatterieslogo.png"
+              websiteUrl="https://www.justice.gc.ca/eng/"
+            />
+
+            {/* Department of Justive Canada Experience (Last) */}
             <ExperienceCard
               last
               title="Junior Data Scientist, National Project Oversight Branch"
@@ -73,7 +110,7 @@ const Experience: React.FC = () => {
                 "Worked extensively with large, complex datasets in the project management and financial industry"
               ]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/pspclogo.png"
-              websiteUrl="https://www.canada.ca/en/public-services-procurement.html"
+              websiteUrl="https://www.justice.gc.ca/eng/"
             />
           </div>
         </div>
