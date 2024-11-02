@@ -49,39 +49,6 @@ const Skills: React.FC = () => {
               },
             ]}
           />
-          <SkillGroup
-            title="Technical"
-            skills={[
-              {
-                iconSrc:
-                  "",
-                iconAlt: "",
-                name: "",
-              },
-            ]}
-          />
-          <SkillGroup
-            title="Soft"
-            skills={[
-              {
-                iconSrc:
-                  "",
-                iconAlt: "",
-                name: "",
-              },
-            ]}
-          />
-          <SkillGroup
-            title="Languages"
-            skills={[
-              {
-                iconSrc:
-                  "",
-                iconAlt: "",
-                name: "",
-              },
-            ]}
-          />
         </div>
       </div>
     </section>
