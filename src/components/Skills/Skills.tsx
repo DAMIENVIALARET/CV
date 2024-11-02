@@ -10,157 +10,75 @@ const Skills: React.FC = () => {
         </div>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-8 max-w-6xl mx-auto">
           <SkillGroup
-            title="Languages"
+            title="Financial Databases"
             skills={[
+              {
+                iconSrc:
+                  "https://media.licdn.com/dms/image/v2/C4D0BAQF0uyE7RGKDGg/company-logo_100_100/company-logo_100_100/0/1631374698859/bloomberg_lp_logo?e=1738800000&v=beta&t=y-ioVsCX7us8KiWu1i0ZjzDJxgx_PItgNRwPaMFbZxw",
+                iconAlt: "Bloobmerg Logo",
+                name: "Bloomberg",
+              },
+              {
+                iconSrc:
+                  "https://media.licdn.com/dms/image/v2/C4D0BAQE9P6lrAqMSyg/company-logo_100_100/company-logo_100_100/0/1657012106987/spglobal_logo?e=1738800000&v=beta&t=aqkkXvT08-eZDOVZZFTf-V5JGerzuqsVH7A8hRjQz7I",
+                iconAlt: "CapIQ Logo",
+                name: "S&P CapIQ",
+              },
+              {
+                iconSrc:
+                  "https://media.licdn.com/dms/image/v2/D560BAQFadXv-CELWtw/company-logo_100_100/company-logo_100_100/0/1689117141980/ibisworld_logo?e=1738800000&v=beta&t=eofBtGhQm5EsP8ZwNo8fszNOiRz3o8gABqC7B-cTF3c",
+                iconAlt: "IBIS World Logo",
+                name: "IBIS World",
+              },
+            ]}
+          />
+          <SkillGroup
+            title="Financial Programming"
+            skills={[
+              {
+                iconSrc:
+                  "https://media.licdn.com/dms/image/v2/D4D07AQH4Vb5mo5Ix-Q/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1673686628759?e=1731132000&v=beta&t=tKMMtXkuZ228_nUbRQhhGmVWVnC1q7IbL6P7eiJxDu0",
+                iconAlt: "VBA Logo",
+                name: "VBA",
+              },
               {
                 iconSrc:
                   "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
                 iconAlt: "Python Logo",
                 name: "Python",
               },
+            ]}
+          />
+          <SkillGroup
+            title="Technical"
+            skills={[
               {
                 iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg",
-                iconAlt: "Go Logo",
-                name: "Go",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg",
-                iconAlt: "Rust Logo",
-                name: "Rust",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg",
-                iconAlt: "Typescript Logo",
-                name: "Typescript",
+                  "",
+                iconAlt: "",
+                name: "",
               },
             ]}
           />
           <SkillGroup
-            title="ML/DL"
+            title="Soft"
             skills={[
               {
                 iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg",
-                iconAlt: "PyTorch Logo",
-                name: "PyTorch",
-              },
-              {
-                iconSrc: "/lightning.png",
-                iconAlt: "Lightning Logo",
-                name: "Lightning",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg",
-                iconAlt: "ScikitLearn Logo",
-                name: "SciKit Learn",
-              },
-              {
-                iconSrc: "/polars.png",
-                iconAlt: "Polars Logo",
-                name: "Polars",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg",
-                iconAlt: "NumPy Logo",
-                name: "NumPy",
+                  "",
+                iconAlt: "",
+                name: "",
               },
             ]}
           />
           <SkillGroup
-            title="Databases"
+            title="Languages"
             skills={[
               {
                 iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg",
-                iconAlt: "SQL Database Logo",
-                name: "SQL",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
-                iconAlt: "PostgreSQL Logo",
-                name: "Postgres",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg",
-                iconAlt: "MongoDB Logo",
-                name: "MongoDB",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg",
-                iconAlt: "Redis Logo",
-                name: "Redis",
-              },
-            ]}
-          />
-          <SkillGroup
-            title="DevOps"
-            skills={[
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
-                iconAlt: "Docker Logo",
-                name: "Docker",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg",
-                iconAlt: "Git Logo",
-                name: "Git",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg",
-                iconAlt: "CICD Logo",
-                name: "CI",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg",
-                iconAlt: "Linux Logo",
-                name: "Linux",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
-                iconAlt: "AWS Logo",
-                name: "AWS",
-              },
-            ]}
-          />
-          <SkillGroup
-            title="WebDev"
-            skills={[
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
-                iconAlt: "React Logo",
-                name: "React",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
-                iconAlt: "Next.js Logo",
-                name: "Next.js",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
-                iconAlt: "Tailwind Logo",
-                name: "Tailwind",
-              },
-              {
-                iconSrc:
-                  "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg",
-                iconAlt: "Bootstrap Logo",
-                name: "Bootstrap",
+                  "",
+                iconAlt: "",
+                name: "",
               },
             ]}
           />
