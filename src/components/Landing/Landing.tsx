@@ -51,9 +51,9 @@ const Landing: React.FC = () => {
                 <li className="text-xs md:text-sm">
                   <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> Bcom. in Finance, University of Ottawa
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">2020 - 2024</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Latest CGPA: 9.00/10.00</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Exemption of Tuition Fees</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">French Studies Bursary</p>
+                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Latest CGPA: 8.00/10.00</p>
+                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Scholarships: Exemption of Tuition Fees, French Studies Bursary</p>
+                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Relevant Coursework: Equity Valuation (A), Options and Futures (A), Fixed Income Investments (A+),Financial Modeling (A+), Fintech (A+) Portfolio Management (A-), Corporate Finance (A-), Finance Theory (A-)</p>
                 </li>
               </ul>
             </div>
