@@ -12,8 +12,8 @@ const ProjectList: React.FC = () => {
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 max-w-6xl mx-auto justify-center">
           {/* TensorCraft Project */}
           <ProjectItem
-            title="TensorCraft"
-            description="Drag-and-Drop Neural Network Builder"
+            title="BrightPath IP"
+            description="Platform to connect students and help them land interships"
             websiteUrl="https://tensorcraft.click"
             githubUrl="https://github.com/sam-harri/TensorCraft"
             listItems={[
@@ -22,30 +22,6 @@ const ProjectList: React.FC = () => {
               "Powered by React, ReactFlow, Zustand, and AWS on the backend",
             ]}
           />
-
-          <ProjectItem
-            title="ProcessDataStreaming"
-            description="Real-Time Chemical Process Data Pipeline"
-            githubUrl="https://github.com/sam-harri/ProcessDataStreaming"
-            listItems={[
-              "Built an end-to-end data pipeline for real-time streaming, processing, and storing chemical process data",
-              "Developed a Rust service for data generation, Kafka Raft with Schema Registry for streaming, Spark for anomaly detection, and TimescaleDB for storage",
-              "Orchestrated multi-container services with Docker and Compose, used Prometheus and Grafana for real-time monitoring and visualization"
-            ]}
-          />
-
-
-          <ProjectItem
-            title="GaussianPI"
-            description="ML Based Process Control PI Tuner"
-            githubUrl="https://github.com/sam-harri/GaussianPI"
-            listItems={[
-              "Tuned control loop constants using Gaussian Processes and Bayesian Optimization",
-              "Developed a MATLAB simulation of the process to test sampled controller configurations, interfaced via Python's matlabengine",
-              "Applied distributed computing to overcome near-real-time simulation constraints."
-            ]}
-          />
-
 
           {/* Uranium Milling Plant Project */}
           <ProjectItem
