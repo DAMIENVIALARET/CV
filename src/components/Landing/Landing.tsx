@@ -19,22 +19,11 @@ const Landing: React.FC = () => {
             University of Ottawa
           </p>
           <div className="mt-4">
-            <a href="https://github.com/DAMIENVIALARET" className="text-2xl mx-2 text-gray-600 hover:text-gray-600">
-              <i className="fab fa-github hover:scale-110"></i>
-            </a>
             <a
               href="https://www.linkedin.com/in/damienadamsvialaret/"
               className="text-2xl mx-2 text-gray-600 hover:text-gray-600"
             >
               <i className="fab fa-linkedin hover:scale-110"></i>
-            </a>
-            <a
-              href="/CV-Damien Vialaret.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-2xl mx-2 text-gray-600 hover:text-gray-600"
-            >
-              <i className="ai ai-cv hover:scale-110"></i>
             </a>
             <a
               href="mailto:vialaretdamien@gmail.com"
