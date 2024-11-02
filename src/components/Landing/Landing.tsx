@@ -29,13 +29,8 @@ const Landing: React.FC = () => {
               href="CV_Damien Adams Vialaret.pdf"
               className="text-2xl mx-2 text-gray-600 hover:text-gray-600"
             >
-              <img
-                src="https://cdn-icons-png.flaticon.com/128/8843/8843096.png"
-                alt="CV Icon"
-                className="h-6 w-6 mr-2 hover:scale-110"
-              />
+              <i className="fas fa-file-pdf hover:scale-110"></i>
             </a>
-
             <a
               href="mailto:vialaretdamien@gmail.com"
               target="_blank"
