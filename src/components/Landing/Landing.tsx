@@ -53,13 +53,13 @@ const Landing: React.FC = () => {
                 <span className="font-semibold">Bcom. in Finance, University of Ottawa</span>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">2020 - 2024</p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
-                  <span className="font-semibold">Latest CGPA:</span> 8.00/10.00
+                <span className="font-semibold">Latest CGPA:</span> 8.00/10.00
                 </p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
-                  <span className="font-semibold">Scholarships:</span> Exemption of Tuition Fees, French Studies Bursary
+                <span className="font-semibold">Scholarships:</span> Exemption of Tuition Fees, French Studies Bursary
                 </p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
-                  <span className="font-semibold">Relevant Coursework:</span>
+                <span className="font-semibold">Relevant Coursework:</span>
                 </p>
                 <ul className="list-disc list-inside text-sm text-gray-600 pl-10 font-light leading-relaxed">
                       <li>Equity Valuation (A)</li>
@@ -78,7 +78,8 @@ const Landing: React.FC = () => {
               <h3 className="text-lg md:text-xl font-light">Certifications</h3>
               <ul className="list-none mt-2 space-y-2">
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> CFA Institute, Level I Candidate
+                  <i className="fas fa-trophy text-gray-600 mr-2"></i>
+                  <span className="font-semibold">CFA Institute, Level I Candidate</span>
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Exp Nov 2024</p>
                 </li>
                 <li className="text-xs md:text-sm">
