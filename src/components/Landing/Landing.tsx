@@ -47,7 +47,7 @@ const Landing: React.FC = () => {
           <div className="flex flex-wrap mt-8">
           <div className="w-full md:w-1/2 pr-5 mb-4">
             <h3 className="text-lg md:text-xl font-light">Education</h3>
-            <ul className="list-none mt-4 space-y-3">
+            <ul className="list-none mt-2 space-y-2">
               <li className="text-sm md:text-base">
                 <i className="fas fa-graduation-cap text-gray-600 mr-2"></i>
                 <span className="font-semibold">Bcom. in Finance, University of Ottawa</span>
@@ -74,7 +74,7 @@ const Landing: React.FC = () => {
                   </li>
                 </ul>
               </div>
-            <div className="w-full md:w-1/2 pr-5 mb-4">
+              <div className="w-full md:w-1/2 pr-5 mb-4">
               <h3 className="text-lg md:text-xl font-light">Certifications</h3>
               <ul className="list-none mt-2 space-y-2">
                 <li className="text-xs md:text-sm">
@@ -83,11 +83,13 @@ const Landing: React.FC = () => {
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Exp Nov 2024</p>
                 </li>
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Investment Funds in Canada, Moody's
+                  <i className="fas fa-trophy text-gray-600 mr-2"></i>
+                  <span className="font-semibold">Investment Funds in Canada, Moody's</span>
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Issued Jun 2023</p>
                 </li>
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Bloomberg Market Concepts, Bloomberg
+                  <i className="fas fa-trophy text-gray-600 mr-2"></i>
+                  <span className="font-semibold">Bloomberg Market Concepts, Bloomberg</span>
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Issued Jun 2023</p>
                 </li>
               </ul>
