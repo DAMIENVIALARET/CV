@@ -29,7 +29,7 @@ const Experience: React.FC = () => {
                 "Pitched a Proactive Portfolio Reconciliation System (functioning VBA/full wireframe/walkthrough) to Managing Director, Director, and Manager, focusing on report automation, data efficiency, and operational risk reduction",
                 "Expanded my network by engaging with key banking partners, including Capital Markets MDs and VPs"
               ]}
-              logoUrl="https://climatecouncil.com/wp-content/uploads/BMO-Capial-Markets.png"
+              logoUrl="https://media.licdn.com/dms/image/v2/D560BAQF6txeHnXUU2Q/company-logo_200_200/company-logo_200_200/0/1688566052352/bmo_capital_markets_logo?e=1738800000&v=beta&t=1iL5qWGwTiAFTqMSedTD7zKyZWU03ugMXoeuzxcQURQ"
               websiteUrl="https://capitalmarkets.bmo.com/en/"
             />
 
@@ -45,7 +45,7 @@ const Experience: React.FC = () => {
                 "Automated processes using Excel VBA and complex data mapping",
                 "Received recognition from Directors & Senior VP for “passion and work ethic"
               ]}
-              logoUrl="https://banner2.cleanpng.com/20181109/eap/kisspng-transgourmet-deutschland-gmbh-co-ohg-transgourm-scotiabank-logo-png-transparent-background-downloa-5be648d3785833.8925840015418185794929.jpg"
+              logoUrl="https://media.licdn.com/dms/image/v2/D560BAQGx2sArNKVDLw/company-logo_100_100/company-logo_100_100/0/1718999423222/scotiabank_logo?e=1738800000&v=beta&t=UBNjNTvxrd-_L-4JKBy1MJebXbVSNHjZKmSWZiviQSc"
               websiteUrl="https://www.scotiabank.com/ca/en/commercial-banking.html"
             />
 
@@ -61,7 +61,7 @@ const Experience: React.FC = () => {
                 "Tutored students one-on-one to solve/understand technical questions",
                 "Gave back to younger students by teaching/sharing knowledge acquired throughout school and work experiences"
               ]}
-              logoUrl="file:///Users/damienvialaret/Downloads/telfer.png"
+              logoUrl="https://media.licdn.com/dms/image/v2/C560BAQEQ_43Ev8n08Q/company-logo_100_100/company-logo_100_100/0/1631312175506?e=1738800000&v=beta&t=1TYfOUyri6mA5Mj9Vzrgaodbmx9kCEmPkvd89LPCdDY"
               websiteUrl="https://telfer.uottawa.ca/en/"
             />
 
