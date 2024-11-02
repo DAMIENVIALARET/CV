@@ -8,7 +8,8 @@ const Skills: React.FC = () => {
         <div className="text-center">
           <h1 className="text-2xl font-light pb-4">Skills</h1>
         </div>
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-8 max-w-6xl mx-auto">
+        <div className="flex justify-center max-w-7xl mx-auto">
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-12">
           <SkillGroup
             title="Financial Databases"
             skills={[
@@ -50,6 +51,7 @@ const Skills: React.FC = () => {
             ]}
           />
         </div>
+      </div>
       </div>
     </section>
   );
