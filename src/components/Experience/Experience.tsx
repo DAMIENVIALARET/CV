@@ -77,7 +77,7 @@ const Experience: React.FC = () => {
                 "Delivered outstanding results to the team while working in a fast-paced environment",
                 "Learned how to understand client needs and match them with the right products, creating optimal outcomes for both clients and the bank"
               ]}
-              logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/gbatterieslogo.png"
+              logoUrl="https://media.licdn.com/dms/image/v2/D4E0BAQEvomVaVzasOg/company-logo_100_100/company-logo_100_100/0/1719928466334/bank_of_montreal_logo?e=1738800000&v=beta&t=_7KvGIpFe5ONgkVVbt7XJma9ClwQWkqA7GHr2NL3-sA"
               websiteUrl="https://www.bmo.com/en-ca/main/personal/"
             />
 
@@ -91,7 +91,7 @@ const Experience: React.FC = () => {
                 "Managed department-wide AR accounts, ensured balanced books, and resolved discrepancies for both internal and external clients",
                 "Optimized workflow efficiency through the development of financial models and interactive dashboards"
               ]}
-              logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/gbatterieslogo.png"
+              logoUrl="https://media.licdn.com/dms/image/v2/C560BAQHosBetXPdPZg/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630635501261/justicecanada_logo?e=1738800000&v=beta&t=NDAd-rxoZjhPe-BY6LhEuKgLO5JL-N0kVnuijt64aaY"
               websiteUrl="https://www.justice.gc.ca/eng/"
             />
 
@@ -106,7 +106,7 @@ const Experience: React.FC = () => {
                 "Conducted a comprehensive department-wide budget analysis encompassing all cost centers across each branch",
                 "Analyzed data to pinpoint anomalies stemming from the impact of the COVID-19 pandemic"
               ]}
-              logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/pspclogo.png"
+              logoUrl="https://media.licdn.com/dms/image/v2/C560BAQHosBetXPdPZg/company-logo_100_100-alternative/company-logo_100_100-alternative/0/1630635501261/justicecanada_logo?e=1738800000&v=beta&t=NDAd-rxoZjhPe-BY6LhEuKgLO5JL-N0kVnuijt64aaY"
               websiteUrl="https://www.justice.gc.ca/eng/"
             />
           </div>
