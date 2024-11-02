@@ -26,6 +26,12 @@ const Landing: React.FC = () => {
               <i className="fab fa-linkedin hover:scale-110"></i>
             </a>
             <a
+              href="CV_Damien Adams Vialaret.pdf"
+              className="text-2xl mx-2 text-gray-600 hover:text-gray-600"
+            >
+              <i className="fas fa-file-pdf hover:scale-110"></i>
+            </a>
+            <a
               href="mailto:vialaretdamien@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
