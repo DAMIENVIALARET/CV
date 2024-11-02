@@ -29,7 +29,7 @@ const Experience: React.FC = () => {
                 "Pitched a Proactive Portfolio Reconciliation System (functioning VBA/full wireframe/walkthrough) to Managing Director, Director, and Manager, focusing on report automation, data efficiency, and operational risk reduction",
                 "Expanded my network by engaging with key banking partners, including Capital Markets MDs and VPs"
               ]}
-              logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/neonlogo.png"
+              logoUrl="https://climatecouncil.com/wp-content/uploads/BMO-Capial-Markets.png"
               websiteUrl="https://capitalmarkets.bmo.com/en/"
             />
 
@@ -45,7 +45,7 @@ const Experience: React.FC = () => {
                 "Automated processes using Excel VBA and complex data mapping",
                 "Received recognition from Directors & Senior VP for “passion and work ethic"
               ]}
-              logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/skyworkslogo.png"
+              logoUrl="https://banner2.cleanpng.com/20181109/eap/kisspng-transgourmet-deutschland-gmbh-co-ohg-transgourm-scotiabank-logo-png-transparent-background-downloa-5be648d3785833.8925840015418185794929.jpg"
               websiteUrl="https://www.scotiabank.com/ca/en/commercial-banking.html"
             />
 
@@ -61,7 +61,7 @@ const Experience: React.FC = () => {
                 "Tutored students one-on-one to solve/understand technical questions",
                 "Gave back to younger students by teaching/sharing knowledge acquired throughout school and work experiences"
               ]}
-              logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/gbatterieslogo.png"
+              logoUrl="file:///Users/damienvialaret/Downloads/telfer.png"
               websiteUrl="https://telfer.uottawa.ca/en/"
             />
 

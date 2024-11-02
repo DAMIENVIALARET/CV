@@ -105,7 +105,7 @@ const Header: React.FC = () => {
                   className="block text-sm text-gray-500 hover:text-gray-600 no-underline hover:no-underline" 
                   href="#projects"
                 >
-                  Projects
+                  Startups
                 </a>
               </li>
             </ul>
