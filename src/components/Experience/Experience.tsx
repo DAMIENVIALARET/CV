@@ -67,47 +67,44 @@ const Experience: React.FC = () => {
 
               {/* BMO P&BB Experience */}
             <ExperienceCard
-              title="Teaching Assistant - Financial Management"
-              company="Telfer School of Management"
+              title="Service Rep"
+              company="Bank of Montreal"
               location="Ottawa, ON"
-              dateRange="Sept 2023 – Dec 2023"
+              dateRange="Jan 2023 – Dec 2023"
               description={[
-                "Provided 5 final exam review sessions, covering complex finance concepts and practice problems (200 students each)",
-                "Held 12 office hours, helping students understand fundamental finance concepts (8-15 students each)",
-                "Tutored students one-on-one to solve/understand technical questions",
-                "Gave back to younger students by teaching/sharing knowledge acquired throughout school and work experiences"
+                "Won 3Q23 Spotlight Award, leading the Ottawa East Market with 540.4% Sales Achievement",
+                "Advised 500+ clients regarding investment and credit decisions (obtained IFC certification to advise on Mutual Funds, paid for by BMO)",
+                "Delivered outstanding results to the team while working in a fast-paced environment",
+                "Learned how to understand client needs and match them with the right products, creating optimal outcomes for both clients and the bank"
               ]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/gbatterieslogo.png"
               websiteUrl="https://www.bmo.com/en-ca/main/personal/"
             />
 
-            {/* Department of Justive Canada Experience */}
+            {/* Department of Justive Canada Experience 2 */}
             <ExperienceCard
-              title="Teaching Assistant - Financial Management"
-              company="Telfer School of Management"
+              title="Accounts Receivable Analyst"
+              company="Department of Justice Canada"
               location="Ottawa, ON"
-              dateRange="Sept 2023 – Dec 2023"
+              dateRange="Jan 2022 – Dec 2022"
               description={[
-                "Provided 5 final exam review sessions, covering complex finance concepts and practice problems (200 students each)",
-                "Held 12 office hours, helping students understand fundamental finance concepts (8-15 students each)",
-                "Tutored students one-on-one to solve/understand technical questions",
-                "Gave back to younger students by teaching/sharing knowledge acquired throughout school and work experiences"
+                "Managed department-wide AR accounts, ensured balanced books, and resolved discrepancies for both internal and external clients",
+                "Optimized workflow efficiency through the development of financial models and interactive dashboards"
               ]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/gbatterieslogo.png"
               websiteUrl="https://www.justice.gc.ca/eng/"
             />
 
-            {/* Department of Justive Canada Experience (Last) */}
+            {/* Department of Justive Canada Experience 1 (Last) */}
             <ExperienceCard
               last
-              title="Junior Data Scientist, National Project Oversight Branch"
-              company="Public Services and Procurement Canada"
-              location="Quebec, QC"
-              dateRange="April 2022 – September 2022"
+              title="Financial Assistant"
+              company="Department of Justice Canada"
+              location="Ottawa, ON"
+              dateRange="Jun 2021 – Jan 2022"
               description={[
-                "Developed an automated review system for the National Project Management System to provide early warnings for projects at risk of exceeding time, budget, or scope constraints, reducing quarterly review exercise timeline from over 60 hours to approximately 5 minutes",
-                "Created a comprehensive dashboard to visualize project data, highlighting trends across projects, regions, and project managers",
-                "Worked extensively with large, complex datasets in the project management and financial industry"
+                "Conducted a comprehensive department-wide budget analysis encompassing all cost centers across each branch",
+                "Analyzed data to pinpoint anomalies stemming from the impact of the COVID-19 pandemic"
               ]}
               logoUrl="https://samharrison-portfolio.s3.us-east-2.amazonaws.com/pspclogo.png"
               websiteUrl="https://www.justice.gc.ca/eng/"

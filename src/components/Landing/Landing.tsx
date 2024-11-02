@@ -60,32 +60,25 @@ const Landing: React.FC = () => {
               <h3 className="text-lg md:text-xl font-light">Education</h3>
               <ul className="list-none mt-2 space-y-2">
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> Bcom. in Finance
-                  2020 - 2024
+                  <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> Bcom. in Finance, 2020 - 2024
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">University of Ottawa</p>
                   <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">GPA: ...</p>
-                </li>
-                <li className="text-xs md:text-sm">
-                  <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> ...
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">University of Ottawa</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">GPA: ...</p>
+                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Exemption of Tuition Fees</p>
+                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">French Studies Bursary</p>
                 </li>
               </ul>
             </div>
             <div className="w-full md:w-1/2 pr-5 mb-4">
-              <h3 className="text-lg md:text-xl font-light">Accomplishments</h3>
+              <h3 className="text-lg md:text-xl font-light">Certifications</h3>
               <ul className="list-none mt-2 space-y-2">
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> ...
+                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> CFA Institute, Level I Candidate - Exp Nov 2024
                 </li>
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> ...
+                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Investment Funds in Canada, Moody's - Issued Jun 2023
                 </li>
                 <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Exception of Tuition Fees
-                </li>
-                <li className="text-xs md:text-sm">
-                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> French Studies Bursary
+                  <i className="fas fa-trophy text-gray-600 hover:text-gray-600"></i> Bloomberg Market Concepts, Bloomberg - Issued Jun 2023
                 </li>
               </ul>
             </div>
