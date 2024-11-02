@@ -41,9 +41,9 @@ const Experience: React.FC = () => {
               dateRange="Jan 2024 - Apr 2024"
               description={[
                 "Managed a portfolio of companies with annual revenues of up to $1.1B, servicing 20+ credit requests, analyzing 50+ financial statements, conducting 10+ annual reviews, and successfully completing 2 full client onboardings",
-                "Lead the Benchmark Rate Reform (CORRA transition) on a book of ~$200MM+ of loans and swaps",
+                "Led the Benchmark Rate Reform (CORRA transition) on a book of ~$200MM+ of loans and swaps",
                 "Automated processes using Excel VBA and complex data mapping",
-                "Received recognition from Directors & Senior VP for “passion and work ethic"
+                "Received recognition from Directors & Senior VP for passion and work ethic"
               ]}
               logoUrl="https://media.licdn.com/dms/image/v2/D560BAQGx2sArNKVDLw/company-logo_100_100/company-logo_100_100/0/1718999423222/scotiabank_logo?e=1738800000&v=beta&t=UBNjNTvxrd-_L-4JKBy1MJebXbVSNHjZKmSWZiviQSc"
               websiteUrl="https://www.scotiabank.com/ca/en/commercial-banking.html"
