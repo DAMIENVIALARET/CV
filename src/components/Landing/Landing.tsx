@@ -45,18 +45,35 @@ const Landing: React.FC = () => {
             I am driven by curiosity and eagerness to innovate. I also love expanding my netwrok and working in team settings.
           </p>
           <div className="flex flex-wrap mt-8">
-            <div className="w-full md:w-1/2 pr-5 mb-4">
-              <h3 className="text-lg md:text-xl font-light">Education</h3>
-              <ul className="list-none mt-2 space-y-2">
-                <li className="text-xs md:text-sm">
-                  <i className="fas fa-graduation-cap text-gray-600 hover:text-gray-600"></i> Bcom. in Finance, University of Ottawa
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">2020 - 2024</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Latest CGPA: 8.00/10.00</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Scholarships: Exemption of Tuition Fees, French Studies Bursary</p>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Relevant Coursework: Equity Valuation (A), Options and Futures (A), Fixed Income Investments (A+),Financial Modeling (A+), Fintech (A+) Portfolio Management (A-), Corporate Finance (A-), Finance Theory (A-)</p>
-                </li>
-              </ul>
-            </div>
+          <div className="w-full md:w-1/2 pr-5 mb-4">
+            <h3 className="text-lg md:text-xl font-light">Education</h3>
+            <ul className="list-none mt-4 space-y-3">
+              <li className="text-sm md:text-base">
+                <i className="fas fa-graduation-cap text-gray-600 mr-2"></i>
+                <span className="font-semibold">Bcom. in Finance, University of Ottawa</span>
+                <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">2020 - 2024</p>
+                <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
+                  <span className="font-semibold">Latest CGPA:</span> 8.00/10.00
+                </p>
+                <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
+                  <span className="font-semibold">Scholarships:</span> Exemption of Tuition Fees, French Studies Bursary
+                </p>
+                <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
+                  <span className="font-semibold">Relevant Coursework:</span>
+                </p>
+                <ul className="list-disc list-inside text-sm text-gray-600 pl-10 font-light leading-relaxed">
+                      <li>Equity Valuation (A)</li>
+                      <li>Options and Futures (A)</li>
+                      <li>Fixed Income Investments (A+)</li>
+                      <li>Financial Modeling (A+)</li>
+                      <li>Fintech (A+)</li>
+                      <li>Portfolio Management (A-)</li>
+                      <li>Corporate Finance (A-)</li>
+                      <li>Finance Theory (A-)</li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
             <div className="w-full md:w-1/2 pr-5 mb-4">
               <h3 className="text-lg md:text-xl font-light">Certifications</h3>
               <ul className="list-none mt-2 space-y-2">
