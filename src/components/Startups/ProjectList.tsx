@@ -13,11 +13,11 @@ const ProjectList: React.FC = () => {
           {/* BrightPath IP */}
           <ProjectItem
             title="BrightPath IP"
-            description="Platform to connect students and help them land interships"
+            description="Platform to connect students and help them land internships"
             websiteUrl=""
             githubUrl=""
             listItems={[
-              "BrightPath Internship Prep connects students with student/alumni Mentors to gain the skills required to land internships and see them through to success",
+              "BrightPath Internship Prep connects students with students/alumni Mentors to gain the skills required to land internships and see them through to success",
               "BrightPath IP is still in development"
             ]}
           />
