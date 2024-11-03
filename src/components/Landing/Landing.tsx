@@ -62,7 +62,7 @@ const Landing: React.FC = () => {
                 <span className="font-semibold">Latest CGPA:</span> 8.00/10.00
                 </p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
-                <span className="font-semibold">Scholarships:</span> Exemption of Tuition Fees, French Studies Bursary
+                <span className="font-semibold">Scholarships:</span> French Studies Bursary
                 </p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
                 <span className="font-semibold">Relevant Coursework:</span>
