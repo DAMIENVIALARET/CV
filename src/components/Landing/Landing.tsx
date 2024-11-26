@@ -59,7 +59,7 @@ const Landing: React.FC = () => {
                 <span className="font-semibold">BCom in Finance, University of Ottawa</span>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">2020 - 2024</p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
-                <span className="font-semibold">Latest CGPA:</span> 8.00/10.00
+                <span className="font-semibold">TGPA:</span> 8.00/10.00
                 </p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
                 <span className="font-semibold">Scholarships:</span> French Studies Bursary
