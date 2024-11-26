@@ -86,7 +86,7 @@ const Landing: React.FC = () => {
                 <li className="text-xs md:text-sm">
                   <i className="fas fa-trophy text-gray-600 mr-2"></i>
                   <span className="font-semibold">CFA Institute, Level I Candidate</span>
-                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Exp Nov 2024</p>
+                  <p className="text-xs md:text-sm text-gray-600 pl-7 font-light">Exp Feb 2025</p>
                 </li>
                 <li className="text-xs md:text-sm">
                   <i className="fas fa-trophy text-gray-600 mr-2"></i>
