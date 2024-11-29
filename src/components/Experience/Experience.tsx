@@ -19,7 +19,7 @@ const Experience: React.FC = () => {
             {/* BMO Capital Markets Experience (First) */}
             <ExperienceCard
               first
-              title="Analyst, Collateral Management Group"
+              title="Analyst, OTC Derivatives"
               company="BMO Capital Markets"
               location="Toronto, ON"
               dateRange="May 2024 - Aug 2024"
