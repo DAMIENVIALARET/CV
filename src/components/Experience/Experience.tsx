@@ -54,7 +54,7 @@ const Experience: React.FC = () => {
               title="Teaching Assistant - Financial Management"
               company="Telfer School of Management"
               location="Ottawa, ON"
-              dateRange="Sept 2023 – Dec 2023"
+              dateRange="Sep 2023 – Dec 2023"
               description={[
                 "Provided 5 final exam review sessions, covering complex finance concepts and practice problems (200 students each)",
                 "Held 12 office hours, helping students understand fundamental finance concepts (8-15 students each)",

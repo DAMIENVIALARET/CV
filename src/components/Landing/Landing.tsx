@@ -57,7 +57,7 @@ const Landing: React.FC = () => {
               <li className="text-sm md:text-base">
                 <i className="fas fa-graduation-cap text-gray-600 mr-2"></i>
                 <span className="font-semibold">BCom in Finance, University of Ottawa</span>
-                <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">2020 - 2024</p>
+                <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">Sep 2020 - Pres</p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
                 <span className="font-semibold">TGPA:</span> 8.00/10.00
                 </p>
