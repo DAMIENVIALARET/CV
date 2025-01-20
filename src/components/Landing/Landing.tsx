@@ -59,7 +59,7 @@ const Landing: React.FC = () => {
                 <span className="font-semibold">BCom in Finance, University of Ottawa</span>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">Sep 2020 - Pres</p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
-                <span className="font-semibold">TGPA:</span> 8.00/10.00
+                <span className="font-semibold">TGPA:</span> 9.25/10.00, Dean's Honour Role
                 </p>
                 <p className="text-sm text-gray-600 pl-6 font-light leading-relaxed">
                 <span className="font-semibold">Scholarships:</span> French Studies Bursary
@@ -69,11 +69,14 @@ const Landing: React.FC = () => {
                 </p>
                 <ul className="list-disc list-inside text-sm text-gray-600 pl-10 font-light leading-relaxed">
                       <li>Equity Valuation (A)</li>
-                      <li>Options and Futures (A)</li>
-                      <li>Fixed Income Investments (A+)</li>
+                      <li>Options & Futures (A)</li>
+                      <li>Fixed Income (A+)</li>
                       <li>Financial Modeling (A+)</li>
                       <li>Fintech (A+)</li>
-                      <li>Portfolio Management (A-)</li>
+                      <li>Int Financial Mgnt (A+)</li>
+                      <li>Money & Banking (A)</li>
+                      <li>Finance Ethics (A)</li>
+                      <li>Portfolio Mgnt (A-)</li>
                       <li>Corporate Finance (A-)</li>
                       <li>Finance Theory (A-)</li>
                     </ul>
